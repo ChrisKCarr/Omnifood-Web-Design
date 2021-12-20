@@ -50,6 +50,9 @@ Medium: 11px
 html {
   font-size: 62.5%;
   overflow-x: hidden;
+
+  /* Does not work on Safari*/
+  /* scroll-behavior: smooth; */
 }
 
 body {
@@ -101,7 +104,8 @@ body {
 }
 
 .heading-primary,
-.heading-secondary {
+.heading-secondary,
+.heading-tertiary {
   font-weight: 700;
   letter-spacing: -0.5px;
   color: #333;
@@ -126,8 +130,8 @@ body {
 }
 
 .subheading {
-  display: inline-block;
-  font-size: 2rem;
+  display: block;
+  font-size: 1.6rem;
   font-weight: 500;
   color: #cf711f;
   text-transform: uppercase;
@@ -231,7 +235,7 @@ body {
 
 *:focus {
   outline: none;
-  box-shadow: 0 0 0 0.8rem rgb(230, 126, 34, 0.5);
+  box-shadow: 0 0 0 0.8rem rgba(230, 125, 34, 0.5);
 }
 
 /*Helper classes */
