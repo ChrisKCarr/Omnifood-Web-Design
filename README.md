@@ -4,4 +4,4 @@ A pure HTML/CSS project utilizing some Javascript to solidify modern webdesign b
 
 ![Page Overview](https://github.com/ChrisKCarr/Omnifood-Web-Design/blob/master/img/OmniMainPage.png)
 
-[Omnifood Site](https://chriskcarr.github.io/Omnifood-Web-Design/)
+[Omnifood Site](https://omnifood-web-design.pages.dev/)
