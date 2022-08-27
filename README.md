@@ -4,4 +4,4 @@ This project was build using HTML/CSS and some Javascript to solidify modern web
 
 ![Page Overview](https://github.com/ChrisKCarr/Omnifood-Web-Design/blob/master/img/OmniMainPage.png)
 
-[Omnifood Site](https://omnifood-cc.netlify.app/)
+[Omnifood Site](https://chriskcarr.github.io/Omnifood-Web-Design/)
